@@ -1,0 +1,454 @@
+@media screen and (max-width:1216px){
+    .containt-text img {
+        height: 20rem ;
+        width: 17rem ;
+        border-radius: 10px;
+    }
+
+    .carousel-indicators {
+        margin-right: 31%;
+    }
+
+
+.btn-lengrd {
+    margin-top: 1rem;
+    width: 170px;
+    height: 38px;
+}
+
+
+.containt-text p {
+    font-size: 12px;
+    padding: 0px;
+}
+
+.mid-main-con h1 {
+    font-size: 34px;
+}
+
+.mid-main-con p {
+    font-size: 11px;
+    margin-top: 7px;
+}
+
+.mid-main {
+    margin: 5rem 0;
+}
+
+
+.ps img {
+    height: 50px;
+    width: 50px;
+    border-radius: 50%;
+    box-shadow: 0 0 4px grey;
+    margin: 7px;
+}
+
+.ps-text h5 {
+    color: brown;
+    font-size: 11px;
+}
+.ps-text span {
+    margin: 0 3px;
+    font-size: 12px;
+}
+
+.inpdv {
+    margin-left: 83px;
+}
+
+.yl-clr:enabled {
+    height: 9px;
+    width: 9px;
+    margin: 0 5px;
+}
+
+
+.ps {
+    align-items: center;
+    margin: 1px 0;
+}
+
+.main-i13 {
+    z-index: -1 !important;
+}
+
+
+
+@media screen and (max-width:1134px) {
+    .carousel-indicators{
+        margin-right: 26% !important;
+    }
+
+   
+}
+
+@media screen and (max-width:1023px){
+   
+    .containt-text img {
+        height: 17rem;
+        width: 14rem;
+    }
+
+    .main-i13 {
+        z-index: -1 !important;
+    }
+
+  
+    .carousel-indicators{
+        margin-right: 20% !important;
+    }
+}
+
+@media screen and (max-width:923px){
+    
+
+    .containt-text img {
+        height: 12rem;
+        width: 10rem;
+    }
+
+    .containt-text h1 {
+        font-size: 12px;
+        padding: 3px;
+    }
+
+    .containt-text p {
+        font-size: 7px;
+        padding: 0px;
+    }
+
+    
+.btn-lengrd {
+    margin-top: 9px;
+    width: 111px;
+    height: 25px;
+
+}
+
+.headdiv {
+    margin: 24px 0rem;
+}
+
+.mid-main-con {
+    margin: 10px 22px;
+}
+
+.mid-main-con h1 {
+    font-size: 20px;
+}
+
+.mid-main {
+    margin: 20px;
+    justify-content: space-around;
+}
+
+.ps img {
+    height: 40px;
+    width: 40px;
+}
+
+.ps-text span {
+    margin: 0 3px;
+    font-size: 10px;
+}
+
+.ps-text h5 {
+    color: brown;
+    font-size: 10px;
+}
+
+.mid-main-con p {
+    font-size: 11px;
+    margin-top: 4px;
+}
+
+.inpdv {
+    margin-left: 73px;
+}
+
+.main-i13 {
+    z-index: -1 !important;
+}
+
+.carousel-indicators {
+    margin-right: 30% !important;
+    
+}
+
+
+
+.carousel-indicators [data-bs-target]{
+    height: 5px;
+    width: 5px;
+}
+
+
+}
+
+@media screen and (max-width:767px){
+
+} 
+
+@media screen and (max-width:690px){
+    .carousel-indicators {
+        margin-right: 17% !important;
+        
+    }
+    } 
+
+@media screen and (max-width:612px) {
+
+    .containt-text h1 {
+        font-size: 9px;
+        padding: 3px;
+    }
+    
+    .containt-text img {
+        height: 8rem;
+        width: 7rem;
+    }
+
+    .containt-text p {
+        font-size: 6px;
+        padding: 0px;
+    }
+
+    .containt-text {
+        margin: 12px;
+        text-align: center;
+    }   
+
+    .btn-lengrd {
+        width: 81px;
+        height: 25px;
+        font-size: 6px;
+    }
+
+    .mid-main-con p {
+        font-size: 6px;
+        margin-top: 2px;
+    }
+
+    .mid-main-con h1 {
+        font-size: 13px;
+    }
+
+    .ps img {
+        height: 25px;
+        width: 25px;
+    }
+
+    .ps-text {
+        margin: 0 0px;
+       
+    }
+
+    .ps-text h5{
+        margin: 0;
+    }
+
+    .ps-text h5 {
+        font-size: 8px;
+    }
+
+    .ps-text span {
+        font-size: 7px;
+        margin: 1px;
+    }
+
+    .inpdv {
+        margin-left: 27px;
+    }
+
+    .yl-clr:enabled {
+        height: 4px;
+        width: 4px;
+        margin: 0 2px;
+    }
+
+    .mid-main-con {
+        margin: 0px 50px;
+    }
+
+    .ps img {
+        height: 25px;
+        width: 25px;
+        margin: 7px 5px;
+    }
+
+    .main-i13 {
+        z-index: -1 !important;
+        height: 34rem;
+    }
+
+    .carousel-indicators {
+        margin-right: 17% !important;
+        top: 6rem;
+    }
+   
+
+    footer h5{
+        margin: 0;
+    }
+}
+@media screen and (max-width:541px){
+    .main-i13 {
+        height: 24rem;
+    }
+
+    .form {
+        top: 100px;
+    }
+
+
+   
+.carousel-indicators [data-bs-target]{
+    margin: 0 4px;
+    
+}
+
+.carousel-indicators {
+    margin-right: 14% !important;
+    top: 6rem;
+}
+@media screen and (max-width:502px){
+
+    .carousel-indicators {
+        margin-right: 42% !important;
+        
+    }
+   
+    .mid-main-con {
+        margin: 8px 14px;
+    }
+
+    .containt-text {
+        margin: 4px;
+        text-align: center;
+    }
+
+    .btn-lengrd {
+        width: 81px;
+        height: 21px;
+        font-size: 6px;
+        margin: 0;
+    }
+
+    .main-i13 {
+        z-index: -1 !important;
+    }
+
+    .form {
+        top: 100px;
+    }
+
+    .shadowimg{
+        height: 26rem;
+    }
+    .containt-text p{
+    margin: 0 !important;
+
+    }
+
+
+    @media screen and (max-width:421px){
+
+        .form {
+            top: 90px;
+        }
+
+       
+
+        .carousel-indicators {
+            margin-right: 20% !important;
+            top: 6rem;
+        }
+        .main-i13 {
+            z-index: -1 !important;
+            height: 19rem;
+        }
+    }
+
+   
+}
+
+@media screen and (max-width:377px){
+
+}
+
+
+@media screen and (max-width:369px){
+    .containt-main {
+        flex-direction: row !important;
+        justify-content: center;
+    }
+
+.containt {
+    justify-content: center;
+    align-items: center;
+    flex-direction: column !important;
+}
+.containt-text {
+    margin: 4px 2px;
+    text-align: center;
+}
+
+
+
+.mid-main-con {
+    margin: 8px 0px;
+}
+
+.ps img {
+    height: 20px;
+    width: 20px;
+    margin: 2px 5px;
+}
+
+.mid-main-con h1 {
+    font-size: 8px;
+}
+
+.mid-main {
+    justify-content: center;
+    margin: 15px;
+    align-items: center;
+    flex-direction: column;
+}
+
+.mid-main-con h1 {
+    text-align: center;
+}
+
+.main-i13 {
+    z-index: -1 !important;
+    height: 19rem;
+}
+
+.inpdv {
+    margin-left: 40px !important;
+}
+
+.form {
+    top: 66px;
+}
+
+.carousel-indicators {
+    margin-right: 35% !important;
+    top: 6rem;
+}
+
+
+
+}
+
+@media screen and (max-width:320px){
+    .main-i13 {
+        height: 16rem;
+    }
+   
+}
+
+}
+}

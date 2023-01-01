@@ -1,0 +1,932 @@
+@media screen and (max-width: 1216px) {
+  .vw {
+    display: block;
+    margin-left: 94px;
+  }
+  .form {
+    top: 21rem;
+  }
+
+  .main-i13 {
+    height: 69rem;
+  }
+
+
+  .headdiv h1 {
+    font-size: 41px;
+  }
+
+  .headdiv p {
+    font-size: 19px;
+  }
+
+  .datadv {
+    margin: 4rem auto;
+  }
+
+  .contact-us-dv {
+    top: 8rem !important;
+  }
+
+  @media screen and (max-width: 1134px) {
+    .shadowimg {
+      height: 65rem;
+    }
+
+    .mm {
+      margin: 0 3rem;
+    }
+
+    .headdiv {
+      margin: 100px 0rem;
+    }
+
+    .main-i13 {
+      height: 64rem;
+    }
+
+    
+
+    .contact-us-dv {
+      top: 9rem !important;
+    }
+
+  }
+
+  @media screen and (max-width: 1023px) {
+    .shadowimg {
+      height: 55rem;
+    }
+    .main-form h1 {
+      font-size: 23px;
+    }
+
+    .main-form {
+      padding: 10px;
+    }
+
+    .main-form p,
+    .form-text p {
+      font-size: 14px;
+    }
+
+    .main-i13 h3 {
+      font-size: 16px;
+    }
+
+    .main-i13 input,
+    textarea {
+      margin: 12px 0;
+      padding: 8px 0;
+    }
+
+    .main-i13 textarea {
+      max-height: 100px;
+      min-height: 100px;
+    }
+
+    .datadv {
+      margin: 2rem 0px;
+    }
+
+    .f-2 h1 {
+      font-size: 25px;
+      margin-top: 10px;
+    }
+
+    .f-2 h4 {
+      margin: 20px 0px;
+    }
+
+    .f-1 img {
+      width: 18rem;
+      height: 18rem;
+      margin-left: 25px;
+    }
+
+    .f-2 p {
+      font-size: 14px;
+    }
+
+    .mm {
+      margin: 0 1rem;
+    }
+
+    .btn-lengrd {
+      margin-top: 12px;
+    }
+
+    .icon span {
+      font-size: 16px;
+      margin: 14px 10px;
+    }
+
+    .vw {
+      margin-left: 85px;
+      width: 210px;
+      height: 49px;
+    }
+
+    .contact-us-dv h1 {
+      font-size: 40px;
+    }
+
+    .contact-us-dv h2 {
+      font-size: 36px;
+    }
+
+    .main-i13 {
+      height: 55rem;
+    }
+
+    .main-form h1 {
+      font-size: 18px;
+    }
+
+    .main-i13 h3 {
+      font-size: 13px;
+    }
+
+    .main-form p,
+    .form-text p {
+      font-size: 12px;
+    }
+
+    .form-text p {
+      margin-bottom: 25px;
+    }
+
+    .main-i13 input,
+    textarea {
+      margin: 8px 0;
+      padding: 8px 0;
+      font-size: 13px;
+    }
+
+    .main-i13 input::placeholder,
+    textarea::placeholder {
+      font-size: 13px;
+    }
+
+    .icons {
+      height: 15px;
+      width: 15px;
+      padding: 15px;
+    }
+
+    .icon i {
+      font-size: 18px;
+    }
+
+    .icon a {
+      margin-right: 20px;
+    }
+
+    .btn-yl2 {
+      margin: 15px 0;
+    }
+
+    footer h5 {
+      font-size: 12px;
+    }
+    .btn-yl2 {
+      height: 36px;
+      width: 134px;
+      font-size: 13px;
+    }
+
+    .vw {
+      margin-left: 151px;
+    }
+  }
+
+  @media screen and (max-width: 923px) {
+    nav {
+      height: 35rem;
+    }
+
+    .nav-list ul li a {
+      font-size: 30px;
+      line-height: 5rem;
+    }
+    .main-i13 {
+      height: 46rem;
+    }
+
+    .form {
+    }
+
+    .headdiv h1 {
+      font-size: 30px;
+    }
+
+    .headdiv p {
+      font-size: 15px;
+    }
+
+    .headdiv {
+      margin: 60px 0rem;
+    }
+
+    .f-1 img {
+      width: 16rem;
+      height: 16rem;
+      margin-left: 20px;
+    }
+
+    .f-2 p {
+      font-size: 13px;
+      margin: 12px 0;
+    }
+
+    .f-3 h3 {
+      font-size: 24px;
+    }
+
+    .f-3 h5 {
+      font-size: 16px;
+    }
+
+    .f-2 h4 {
+      margin: 3px 0px;
+      font-size: 14px;
+    }
+
+    .btn-lengrd {
+      margin-top: 8px;
+      height: 40px;
+      width: 160px;
+      font-size: 11px;
+      padding: 3px;
+    }
+
+    .shadowimg {
+      height: 48rem;
+    }
+
+    .contact-us-dv {
+      top: 6rem !important;
+    }
+
+    .contact-us-dv h1 {
+      font-size: 32px;
+    }
+
+    .contact-us-dv h2 {
+      font-size: 28px;
+    }
+  }
+
+  @media screen and (max-width: 820px) {
+    .vw {
+      margin-left: 99px;
+    }
+  }
+
+  @media screen and (max-width: 767px) {
+    .nav-list ul li a {
+      font-size: 24px;
+      line-height: 4rem;
+    }
+
+    nav {
+      height: 20rem;
+    }
+    .headdiv h1 {
+      font-size: 26px;
+      font-weight: 100;
+      margin-top: 7rem;
+    }
+
+    .headdiv p {
+      font-size: 13px;
+    }
+    .navlg-1 h3 {
+      font-size: 38px;
+    }
+
+    .navlogo span {
+      font-size: 8px;
+      color: black;
+      top: 68px;
+      left: 43px;
+    }
+
+    .navlg-1 img {
+      height: 13px;
+      width: 26px;
+      top: 23px;
+      left: 113px;
+    }
+
+    .logo-line {
+      top: 36px;
+      height: 27px;
+      width: 125px;
+      left: 54px;
+    }
+
+    .navlg-1 img {
+      height: 13px;
+      width: 29px;
+      top: 26px;
+      left: 109px;
+    }
+
+    #burger {
+      top: 25px;
+      right: 15px;
+    }
+
+    .f-1 img {
+      width: 12rem;
+      height: 12rem;
+    }
+
+    .f-2 h1 {
+      font-size: 20px;
+      margin-top: 6px;
+    }
+
+    .mm {
+      margin: 0 9px;
+    }
+
+    .f-2 p {
+      font-size: 11px;
+      margin: 13px 0;
+    }
+
+    .f-2 h4 {
+      margin: 3px 0px;
+      font-size: 12px;
+    }
+
+    .icon i,
+    .icon span {
+      font-size: 14px;
+    }
+
+    .icon span {
+      margin: 10px 5px;
+    }
+
+    .btn-lengrd {
+      margin-top: 3px;
+      height: 32px;
+      width: 117px;
+      font-size: 10px;
+      padding: 0px;
+    }
+
+    .f-3 h3 {
+      font-size: 18px;
+    }
+
+    .f-3 h5 {
+      font-size: 12px;
+    }
+
+    .form {
+      top: 14rem;
+    }
+
+    .contact-us-dv {
+      top: 8rem !important;
+    }
+
+    .contact-us-dv h1 {
+      font-size: 26px;
+    }
+
+    .contact-us-dv h2 {
+      font-size: 19px;
+      margin: 5px 0;
+    }
+
+    .contact-us-dv h1 {
+      font-size: 20px;
+    }
+
+    .main-i13 {
+      height: 38rem;
+    }
+
+    .form-text p {
+      margin-bottom: 13px;
+    }
+
+    .main-form h1 {
+      font-size: 13px;
+    }
+
+    .main-form p,
+    .form-text p {
+      font-size: 10px;
+    }
+
+    .main-form p {
+      margin: 6px 0;
+    }
+
+    .main-i13 input,
+    textarea {
+      margin: 1px 0;
+      padding: 5px 0;
+      font-size: 10px;
+    }
+
+    .main-i13 input::placeholder,
+    textarea::placeholder {
+      font-size: 10px;
+    }
+
+    .main-i13 textarea {
+      max-height: 60px;
+      min-height: 60px;
+    }
+
+    .main-i13 h3 {
+      font-size: 10px;
+      margin: 0;
+    }
+    .icons {
+      height: 10px;
+      width: 10px;
+      padding: 10px;
+    }
+
+    .icon a {
+      margin-right: 5px;
+    }
+
+    .icon i,
+    .icon span {
+      font-size: 10px;
+    }
+    footer h5 {
+      font-size: 10px;
+      padding: 5px;
+    }
+   
+
+    .btn-yl2 {
+      height: 25px;
+      width: 85px;
+      font-size: 10px;
+    }
+  }
+
+  @media screen and (max-width: 612px) {
+    .navlg-1 h3 {
+      font-size: 22px;
+    }
+    .navlogo span {
+      font-size: 5px;
+      top: 52px;
+      left: 43px;
+    }
+
+    .navlg-1 img {
+      height: 10px;
+      width: 17px;
+      top: 26px;
+      left: 82px;
+    }
+
+    .logo-line {
+      top: 34px;
+      height: 14px;
+      width: 68px;
+      left: 54px;
+    }
+
+    #burger {
+      top: 22px;
+      right: 7px;
+      font-size: 15px;
+    }
+
+    .headdiv h1 {
+      font-size: 16px;
+      margin-top: 6rem;
+    }
+
+    .headdiv p {
+      font-size: 8px;;
+    }
+
+    .f-1 img {
+      width: 8rem;
+      height: 8rem;
+    }
+
+    .f-2 h1 {
+      font-size: 14px;
+      margin-top: 4px;
+    }
+
+    .f-2 p {
+      font-size: 10px;
+      margin: 2px 0;
+    }
+
+    .f-2 h4 {
+      margin: 3px 0px;
+      font-size: 11px;
+    }
+
+    .btn-lengrd {
+      margin-top: 0px;
+      height: 24px;
+      width: 90px;
+      font-size: 8px;
+      padding: 0px;
+    }
+
+    .f-3 h3 {
+      font-size: 14px;
+    }
+
+    .f-3 h5 {
+      font-size: 10px;
+    }
+
+    .vw {
+      margin-left: 60px;
+    }
+
+    .main-i13 {
+      height: 31rem;
+    }
+
+    .shadowimg {
+      height: 35rem;
+    }
+
+   
+
+
+    .vw {
+      margin-left: 105px;
+    }
+  }
+
+  @media screen and (max-width: 541px) {
+    .nav-list ul {
+      line-height: 2rem;
+    }
+
+    .nav-list ul li a {
+      font-size: 15px;
+      line-height: 0;
+    }
+
+    nav {
+      height: 17rem;
+    }
+    .f-1 img {
+      width: 7rem;
+      height: 7rem;
+    }
+    .vw {
+      margin-left: 124px;
+    }
+
+    .f-2 h1 {
+      font-size: 10px;
+      margin-top: 2px;
+    }
+
+    .f-2 p {
+      font-size: 7px;
+      margin: 2px 0;
+    }
+
+    .f-2 h4 {
+      margin: 2px 0px;
+      font-size: 7px;
+    }
+
+    .f-3 h3 {
+      font-size: 10px;
+      margin: 4px 0;
+    }
+
+    .f-3 h5 {
+      font-size: 7px;
+      margin: 0;
+    }
+
+    .datadv {
+      margin: 10px 0px;
+    }
+
+    .icon i,
+    .icon span {
+      font-size: 8px;
+    }
+
+    .btn-lengrd {
+      height: 16px;
+      width: 64px;
+      font-size: 5px;
+
+      border: solid 1px transparent;
+    }
+
+    .main-i13 {
+      height: 17rem;
+    }
+
+    .contact-us-dv {
+      top: 36px !important;
+    }
+    .main-form {
+      padding: 0 10px;
+    }
+
+    .contact-us-dv h1 {
+      font-size: 12px;
+    }
+
+    .contact-us-dv h2 {
+      font-size: 10px;
+      margin: 0;
+    }
+
+    .main-i13 textarea {
+      max-height: 30px;
+      min-height: 30px;
+    }
+
+    .main-form h1 {
+      font-size: 8px;
+    }
+
+    .main-i13 h3 {
+      font-size: 7px;
+      margin: 0;
+    }
+
+    .main-i13 input,
+    textarea {
+      margin: 2px 0;
+      padding: 2px 0;
+      font-size: 6px;
+      border-bottom: 1px solid whitesmoke;
+    }
+
+    .form-text p,
+    .main-form p {
+      font-size: 6px;
+      margin: 2px 0;
+    }
+
+    .main-i13 input::placeholder,
+    textarea::placeholder {
+      font-size: 6px;
+    }
+
+    .main-i13 textarea {
+      max-height: 35px;
+      min-height: 36px;
+    }
+
+    .main-i13 h3 {
+      font-size: 7px;
+      margin-top: 4px;
+    }
+
+    .icons {
+      height: 6px;
+      width: 6px;
+      padding: 6px;
+      border: 1px solid whitesmoke;
+    }
+
+    .btn-yl2 {
+      height: 12px;
+      width: 50px;
+      font-size: 6px;
+      margin: 5px 0;
+    }
+
+    .icon i,
+    .icon span {
+      font-size: 5px;
+    }
+    .form {
+      top: 51px;
+    }
+
+    footer h5 {
+      font-size: 6px;
+      padding: 4px;
+    }
+
+    footer {
+      top: 63px;
+    }
+
+    .main-form {
+      padding: 0px 0px;
+    }
+
+    .shadowimg {
+      height: 21rem;
+    }
+  }
+
+  @media screen and (max-width: 420px) {
+    nav {
+      height: 14rem;
+    }
+
+    .nav-list ul li a {
+      font-size: 10px;
+      line-height: 0;
+    }
+
+    .vw {
+      margin-left: 78px;
+    }
+
+    .headdiv {
+      margin: 40px 0rem;
+    }
+
+    .headdiv h1 {
+      font-size: 11px;
+      margin-top: 4rem;
+    }
+
+    .headdiv p {
+      font-size: 6px;
+    }
+
+    .mm {
+      margin: 0 5px;
+    }
+
+    .main-i13 {
+      height: 15rem;
+    }
+  }
+
+  @media screen and (max-width: 421px) {
+    .vw {
+      margin-left: 73px;
+    }
+
+    @media screen and (max-width: 394px) {
+
+      #burger {
+        font-size: 9px;
+        top: 8px;
+        right: 10px;
+    }
+
+    .navlg-1 img {
+        height: 9px;
+        width: 14px;
+        left: 64px;
+        top: 14px;
+    }
+
+    .logo-line {
+        top: 21px;
+        width: 33px;
+        left: 58px;
+        height: 14px;
+        border-right: 1.2px solid #ffb683;
+    }
+
+    
+    .navlg-1 h3 {
+      font-size: 17px;
+      left: 21px;
+      top: 23px;
+  }
+
+    .navlogo span {
+        font-size: 4px;
+        top: 41px;
+        left: 22px;
+    }
+
+      .vw {
+        margin-left: 63px;
+      }
+    }
+    @media screen and (max-width: 376px) {
+      .vw {
+        margin-left: 65px;
+      }
+    }
+  }
+  @media screen and (max-width: 360px) {
+    .vw {
+      margin-left: 53px;
+    }
+  }
+  @media screen and (max-width: 319px) {
+    .f-1 img {
+      width: 5rem;
+      height: 5rem;
+    }
+
+    .f-2 h1 {
+      font-size: 7px;
+      margin-top: 1px;
+    }
+
+    .f-2 p {
+      font-size: 5px;
+      margin: 2px 0;
+    }
+
+    .f-2 h4 {
+      margin: 2px 0px;
+      font-size: 5px;
+    }
+
+    .vw {
+      margin-left: 34px;
+    }
+
+    .main-i13 {
+      height: 14rem;
+    }
+
+    .main-form {
+      padding: 3px 8px;
+    }
+
+    .main-form h1 {
+      font-size: 6px;
+    }
+
+    .main-i13 h3 {
+      font-size: 5px;
+      margin-top: 2px;
+    }
+
+    .form-text p,
+    .main-form p {
+      font-size: 4px;
+      margin: 2px 0;
+    }
+
+    .contact-us-dv h1 {
+      font-size: 10px;
+    }
+
+    .contact-us-dv h2 {
+      font-size: 9px;
+      margin: 0;
+    }
+
+    .shadowimg {
+      height: 16rem;
+    }
+
+    .contact-us-dv {
+      top: 27px !important;
+    }
+
+    .main-i13 input,
+    textarea {
+      font-size: 4px;
+    }
+    .main-i13 input::placeholder,
+    textarea::placeholder {
+      font-size: 4px;
+    }
+    footer {
+      top: 49px;
+    }
+
+    .main-i13 textarea {
+      max-height: 25px;
+      min-height: 25px;
+    }
+
+    .btn-yl2 {
+      height: 10px;
+      width: 34px;
+      font-size: 4px;
+      margin: 4px 0;
+    }
+
+    .icons {
+      height: 5px;
+      width: 5px;
+      padding: 5px;
+    }
+
+    .form {
+      top: 43px;
+    }
+  }
+}

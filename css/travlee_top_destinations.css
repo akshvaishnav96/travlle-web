@@ -1,0 +1,207 @@
+@import url('https://fonts.googleapis.com/css2?family=Dancing+Script&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Dancing+Script&family=Raleway:wght@200&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Dancing+Script&family=Raleway:wght@300&display=swap');
+
+*{
+    margin: 0;
+    padding: 0%;
+    box-sizing: border-box;
+}
+
+body{
+    background-color: #efefef;
+}
+#burger{
+    color: black;
+}
+
+.activeicon{
+    filter: invert(1);
+}
+
+.navlg-1 img {
+    filter: invert(0);
+}
+
+.logo-line {
+    border-right: 5px solid rgb(224, 151, 15);
+    position: relative;
+}
+
+
+
+.navlogo span {
+    color: black;
+    font-family: 'Dancing Script', cursive;
+    top: 91px;
+}
+
+.headdiv{
+    text-align: center;
+    margin: 8rem;
+    position: relative;
+}
+
+.headdiv h1{
+    font-size: 3rem;
+    font-weight: 100;
+    margin-top: 10rem;
+} 
+
+.headdiv p{
+    font-size: 24px;
+    font-family: 'Raleway', sans-serif !important;
+
+}
+
+
+.contdv{
+    display: flex;
+    flex-direction: column;
+    margin: 40px;
+    position: relative;
+}
+
+.datadv{
+    display: flex;
+    width: 95%;
+    margin: 6rem auto;
+    justify-content: center;
+}
+
+.mm{
+    margin:0 3rem;
+}
+
+
+.f-1 img{
+    width: 20rem;
+    height: 20rem;
+    border-radius: 10px;
+    box-shadow: 2px 2px 4px grey;
+}
+
+.f-2 h1{
+    font-size: 30px;
+    font-weight: 100;
+    margin-top: 20px;
+}
+.f-2 p {
+    font-size: 17px;
+    margin: 20px 0px;
+    font-family: 'Raleway', sans-serif;
+
+}
+
+.f-2 h4{
+    font-size: 17px;
+    margin: 35px 0px;
+    font-family: 'Raleway', sans-serif;
+
+}
+
+.icon span , .f-2 p , .f-2 h4{
+    font-size: 16px;
+    font-family: 'Raleway', sans-serif;
+    font-weight: 600;
+
+}
+
+.f-3{
+    margin: 0 6rem;
+    text-align: center;
+}
+
+.f-3 h3{
+    margin-top: 1rem;
+    font-size: 30px;
+    
+}
+
+.f-3 h5{
+    font-size: 20px;
+    margin: 4px;
+    text-decoration: line-through;
+}
+
+.icon-main{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    width: 90%;
+}
+
+.icon{
+    display: flex;
+    align-items: center;
+}
+
+.icon i{
+    font-size: 24px;
+}
+
+.fa-plane{
+    transform: rotate(-47deg);
+    font-size: 23px;
+}
+
+.icon span{
+    
+    margin-left: 10px;
+}
+
+.fa-clock{
+    color: black;
+}
+
+.btn-lengrd {
+    margin-top: 2rem;
+    width: 210px;
+    height: 49px;
+    border-radius: 25px;
+    /* padding: 1rem; */
+    font-size: 13px;
+    padding: 0.5rem 3rem;
+    color: black;
+    box-shadow: 0 0 6px 0 rgb(157 96 212 / 50%);
+    border: solid 2px transparent;
+    background-image: linear-gradient(rgba(255, 255, 255, 0), rgba(255, 255, 255, 0)), linear-gradient( 16deg, #ffe500, #f90f24, #f41a1a, #731476, #471c5d);
+    background-origin: border-box;
+    box-shadow: 2px 1000px 1px #fff inset;
+    cursor: pointer;
+}
+.btn-lengrd:hover{
+    background-image: none;
+    background-color: rgba(255, 174, 0, 0.932);
+    box-shadow: 6px 6px 10px rgb(177, 171, 171);
+}
+
+.vw{
+    display: block;
+    margin-left:8.9rem;
+    width: 18rem;
+    /* background-image:linear-gradient(rgba(255, 255, 255, 0), rgba(255, 255, 255, 0)), linear-gradient( 
+        -6deg, #e8bf37, #a15b61, #12da5e, #731476, #c094d6); */
+}
+
+
+.main-i13 {
+    z-index: 0 !important;
+    position: relative !important;
+    top: 0 !important;
+}
+
+
+
+.contact-us-dv {
+    position: relative !important;
+}
+
+.contact-us-dv h1 , h2 {
+    color: white !important;
+}
+
+footer{
+    position: relative !important;
+    top: 0 !important;
+}
